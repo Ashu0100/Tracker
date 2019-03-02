@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905682284394",
+    "firebase_url": "https://tracker-dd504.firebaseio.com",
+    "project_id": "tracker-dd504",
+    "storage_bucket": "tracker-dd504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905682284394:android:80b26920d623fe6e",
+        "android_client_info": {
+          "package_name": "com.example.amd.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905682284394-7p59i3056ccfpakjekeifj32lnfsnhau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzP06lBCV-iH2cCrGwBU8NGsy08wrI3yk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
